@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Gastronomy with Rubot`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Reuben`,
+      summary: `who lives and cooks in Newcastle Upon Tyne.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
